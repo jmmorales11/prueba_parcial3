@@ -1,0 +1,173 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\SpecFlowTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+        "projectName": "ProyectoMVC",
+        "projectPath": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+        "packagesPath": "C:\\Users\\Marley\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.17, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\SpecFlowTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\SpecFlowTest.csproj",
+        "projectName": "SpecFlowTest",
+        "projectPath": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\SpecFlowTest.csproj",
+        "packagesPath": "C:\\Users\\Marley\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj": {
+                "projectPath": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

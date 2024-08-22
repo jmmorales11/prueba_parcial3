@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\dato\\productsqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\dato\\productsqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\features\\actualizarproduct.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\features\\actualizarproduct.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\features\\eliminarproducto.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\features\\eliminarproducto.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\features\\verproductos.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\features\\verproductos.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\features\\ingresoproducto.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\features\\ingresoproducto.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\stepdefinitions\\eliminarproductostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\eliminarproductostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\stepdefinitions\\leerproductosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\leerproductosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\stepdefinitions\\actualizarproductstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\actualizarproductstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\stepdefinitions\\ingresodeproductosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\ingresodeproductosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\stepdefinitions\\ingresoproductosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\stepdefinitions\\ingresoproductosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\dato\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\dato\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\clientesql\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\clientesql\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\controllers\\clientesqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\clientesqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\clientesql\\create1_.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\clientesql\\create1_.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\proyectomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\proyectomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\specflowtest\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE65FD1-9550-4857-9D75-6CB537FDBCC7}|SpecFlowTest\\SpecFlowTest.csproj|solutionrelative:specflowtest\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\proyectomvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\proyectomvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\marley\\documents\\sexto-semestre\\pruebas_software\\tercer_parcial\\proyectomvc\\proyectomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5014D446-F9C0-4CCE-8DEE-9874E7FEE923}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerProductos.feature",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\VerProductos.feature",
+              "RelativeDocumentMoniker": "SpecFlowTest\\Features\\VerProductos.feature",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\VerProductos.feature",
+              "RelativeToolTip": "SpecFlowTest\\Features\\VerProductos.feature",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T14:44:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngresoProducto.feature",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\IngresoProducto.feature",
+              "RelativeDocumentMoniker": "SpecFlowTest\\Features\\IngresoProducto.feature",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\IngresoProducto.feature",
+              "RelativeToolTip": "SpecFlowTest\\Features\\IngresoProducto.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:30:01.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActualizarProduct.feature",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\ActualizarProduct.feature",
+              "RelativeDocumentMoniker": "SpecFlowTest\\Features\\ActualizarProduct.feature",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\ActualizarProduct.feature",
+              "RelativeToolTip": "SpecFlowTest\\Features\\ActualizarProduct.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T14:22:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:35:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductSqlDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Dato\\ProductSqlDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Dato\\ProductSqlDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Dato\\ProductSqlDataAccessLayer.cs",
+              "RelativeToolTip": "ProyectoMVC\\Dato\\ProductSqlDataAccessLayer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAqwG4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:19:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EliminarProducto.feature",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\EliminarProducto.feature",
+              "RelativeDocumentMoniker": "SpecFlowTest\\Features\\EliminarProducto.feature",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\EliminarProducto.feature",
+              "RelativeToolTip": "SpecFlowTest\\Features\\EliminarProducto.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:55:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EliminarProductoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\EliminarProductoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\EliminarProductoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\EliminarProductoStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\EliminarProductoStepDefinitions.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:01:52.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:28:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "SpecFlowTest\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\Features\\Calculator.feature",
+              "RelativeToolTip": "SpecFlowTest\\Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-15T13:29:09.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeerProductosStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\LeerProductosStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\LeerProductosStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\LeerProductosStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\LeerProductosStepDefinitions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:45:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarProductStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\ActualizarProductStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\ActualizarProductStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\ActualizarProductStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\ActualizarProductStepDefinitions.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:23:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IngresoDeProductosStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\IngresoDeProductosStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\IngresoDeProductosStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\IngresoDeProductosStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\IngresoDeProductosStepDefinitions.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:47:27.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IngresoProductosStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\IngresoProductosStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\StepDefinitions\\IngresoProductosStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\StepDefinitions\\IngresoProductosStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowTest\\StepDefinitions\\IngresoProductosStepDefinitions.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:25:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvycAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:24:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteSqlDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Dato\\ClienteSqlDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Dato\\ClienteSqlDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Dato\\ClienteSqlDataAccessLayer.cs",
+              "RelativeToolTip": "ProyectoMVC\\Dato\\ClienteSqlDataAccessLayer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAcwIsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:16:27.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:39:42.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T11:36:36.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\ClienteSql\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\ClienteSql\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\ClienteSql\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\ClienteSql\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T20:49:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:40:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteSql.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Models\\ClienteSql.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Models\\ClienteSql.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Models\\ClienteSql.cs",
+              "RelativeToolTip": "ProyectoMVC\\Models\\ClienteSql.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvwoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:10:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:21:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAMzMzMzMbwB8AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T12:10:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Models\\Product.cs",
+              "RelativeToolTip": "ProyectoMVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:15:21.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteSqlController.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Controllers\\ClienteSqlController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\ClienteSqlController.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Controllers\\ClienteSqlController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\ClienteSqlController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:50:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create1_.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\ClienteSql\\Create1_.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\ClienteSql\\Create1_.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\ClienteSql\\Create1_.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\ClienteSql\\Create1_.cshtml",
+              "ViewState": "AQIAAC4AAAAAzczMzMwgwDIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T12:07:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:21:05.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Models\\Calculator.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Models\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Models\\Calculator.cs",
+              "RelativeToolTip": "ProyectoMVC\\Models\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:38:24.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "SpecFlowTest\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\SpecFlowTest\\ImplicitUsings.cs",
+              "RelativeToolTip": "SpecFlowTest\\ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:46:45.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProyectoMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeDocumentMoniker": "ProyectoMVC\\ProyectoMVC.csproj",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeToolTip": "ProyectoMVC\\ProyectoMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T13:47:21.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProyectoMVC",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeDocumentMoniker": "ProyectoMVC\\ProyectoMVC.csproj",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeToolTip": "ProyectoMVC\\ProyectoMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T13:56:35.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T20:37:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T10:39:45.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Marley\\Documents\\Sexto-semestre\\Pruebas_Software\\Tercer_Parcial\\ProyectoMVC\\ProyectoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T10:40:31.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

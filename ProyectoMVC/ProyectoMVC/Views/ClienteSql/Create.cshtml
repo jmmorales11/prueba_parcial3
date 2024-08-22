@@ -1,0 +1,141 @@
+﻿@model ProyectoMVC.Models.ClienteSql
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>ClienteSql</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label for="Provincia" class="control-label">Provincia</label>
+                <select id="Provincia" class="form-control">
+                    <option value="">Seleccione una provincia</option>
+                    <!-- Opciones de provincias del Ecuador -->
+                    <option value="01">Azuay</option>
+                    <option value="02">Bolívar</option>
+                    <option value="03">Cañar</option>
+                    <option value="04">Carchi</option>
+                    <option value="05">Cotopaxi</option>
+                    <option value="06">Chimborazo</option>
+                    <option value="07">El Oro</option>
+                    <option value="08">Esmeraldas</option>
+                    <option value="09">Guayas</option>
+                    <option value="10">Imbabura</option>
+                    <option value="11">Loja</option>
+                    <option value="12">Los Ríos</option>
+                    <option value="13">Manabí</option>
+                    <option value="14">Morona Santiago</option>
+                    <option value="15">Napo</option>
+                    <option value="16">Pastaza</option>
+                    <option value="17">Pichincha</option>
+                    <option value="18">Tungurahua</option>
+                    <option value="19">Zamora Chinchipe</option>
+                    <option value="20">Galápagos</option>
+                    <option value="21">Sucumbíos</option>
+                    <option value="22">Orellana</option>
+                    <option value="23">Santo Domingo de los Tsáchilas</option>
+                    <option value="24">Santa Elena</option>
+                    <option value="30">Extrangero</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Cedula" class="control-label"></label>
+                <input asp-for="Cedula" class="form-control" id="Cedula" />
+                <span asp-validation-for="Cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombres" class="control-label"></label>
+                <input asp-for="Nombres" class="form-control" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellidos" class="control-label"></label>
+                <input asp-for="Apellidos" class="form-control" />
+                <span asp-validation-for="Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaNacimiento" class="control-label"></label>
+                <input asp-for="FechaNacimiento" class="form-control" type="datetime-local" />
+                <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mail" class="control-label"></label>
+                <input asp-for="Mail" class="form-control" />
+                <span asp-validation-for="Mail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Direccion" class="control-label"></label>
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Saldo" value="0" />             
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                <input asp-for="Estado" class="form-control" />
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input id="btn" type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('Provincia').addEventListener('change', function () {
+                var provincia = this.value;
+                var cedulaInput = document.getElementById('Cedula');
+
+                if (provincia) {
+                    // Generar cédula
+                    var codigoProvincia = provincia;
+                    var numeroCedula = generarCedula(codigoProvincia);
+                    cedulaInput.value = numeroCedula;
+                } else {
+                    cedulaInput.value = '';
+                }
+            });
+
+            function generarCedula(codigoProvincia) {
+                var cedula = codigoProvincia.padStart(2, '0');
+
+                // Generar dígito de la cédula
+                while (cedula.length < 9) {
+                    cedula += Math.floor(Math.random() * 10); // Agregar números aleatorios para completar los 9 dígitos
+                }
+
+                var digitos = cedula.split('').map(Number);
+                var suma = 0;
+                var i;
+
+                for (i = 0; i < digitos.length; i++) {
+                    if (i % 2 === 0) {
+                        var doble = digitos[i] * 2;
+                        suma += (doble > 9) ? doble - 9 : doble;
+                    } else {
+                        suma += digitos[i];
+                    }
+                }
+
+                var modulo10 = suma % 10;
+                var digitoVerificador = (modulo10 === 0) ? 0 : 10 - modulo10;
+
+                return cedula + digitoVerificador;
+            }
+        });
+
+    </script>
+}

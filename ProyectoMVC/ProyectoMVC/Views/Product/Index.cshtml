@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ProyectoMVC.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Productos</h1>
+
+
+
+<div class="form-group">
+    <button id="btn_crear" class="btn btn-primary" onclick="location.href='@Url.Action("Create", "Product")'">Create</button>
+</div>
+
+<div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.ProductId)</th>
+                <th>@Html.DisplayNameFor(model => model.ProductName)</th>
+                <th>@Html.DisplayNameFor(model => model.Category)</th>
+                <th>@Html.DisplayNameFor(model => model.Price)</th>
+                <th>@Html.DisplayNameFor(model => model.StockQuantity)</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.ProductId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Category)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                    <td>@Html.DisplayFor(modelItem => item.StockQuantity)</td>
+                    <td>
+                        @* Icono de Editar *@
+                        @Html.ActionLink("✏️", "Edit", new { id = item.ProductId }, new { @class = "btn btn-primary", title = "Editar" })
+                        @* Icono de Eliminar *@
+                        @Html.ActionLink("🗑️", "Delete", new { id = item.ProductId }, new { @class = "btn btn-danger", title = "Eliminar" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
